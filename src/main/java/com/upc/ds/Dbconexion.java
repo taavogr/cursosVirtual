@@ -9,7 +9,7 @@ public class Dbconexion {
 	
 	public static Connection conexion() throws Exception{
 		String driver ="com.mysql.jdbc.Driver";
-		String url = "jdbc:mysql://localhost:3306/dbtrabajoparcial";
+		String url = "jdbc:mysql://localhost:3306/dbcursosvirtual";
 		
 
 		String user = "root";

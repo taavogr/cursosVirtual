@@ -29,7 +29,7 @@
   <div class="container">
     <div class="section">
       <div class="row">
-    <form class="col s12">
+    <form class="col s12" action="RegistrarUsuario" method="post">
       <div class="row">
         <div class="input-field col s6">
           <input id="first_name" type="text" class="validate">
